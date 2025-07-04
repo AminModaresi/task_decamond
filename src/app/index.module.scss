@@ -1,0 +1,12 @@
+.container_page {
+    width: 100%;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    .link {
+        background-color: #3c3c3c;
+        padding: .75rem 2rem;
+        border-radius: .5rem;
+    }
+}
